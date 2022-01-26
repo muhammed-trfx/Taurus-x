@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM quay.io/lyfe00011/bot:beta
 
 RUN git clone https://github.com/muhammed-usrbot/Taurus-x /root/WhatsAsenaDuplicated
 WORKDIR /root/WhatsAsenaDuplicated/
