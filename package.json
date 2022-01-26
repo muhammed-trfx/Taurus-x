@@ -2,7 +2,7 @@
   "name": "Taurus-Bot",
   "version": "7.3.6",
   "description": "Taurus-Bot is the Modified Version of WhatsAsena, Made By @muhammed-usrbot with Baileys.",
-  "main": "./Taurus-Bot/bot.js",
+  "main": "./Taurus-x/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
